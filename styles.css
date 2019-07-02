@@ -1,0 +1,18 @@
+body {
+	
+	font-family: 'Ubuntu', sans-serif;
+	background-color: rgb(213, 179, 12);
+	font-size: 50px;
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	margin: 25px;
+}
+
+.stopwatch, .controls {
+	text-align: center;
+	margin: 100px 0;
+}
+
